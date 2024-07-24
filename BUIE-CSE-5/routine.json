@@ -37,7 +37,7 @@
 
   {
     "name": "Object oriented programming",
-    "description": "Object oriented programming",
+    "description": "With Java",
     "emoji": "📦",
     "type": "weekly",
     "time": {
@@ -50,7 +50,7 @@
   {
     "name": "Compiler Design",
     "description": "Compiler Design",
-    "emoji": "🔧",
+    "emoji": "⚙️",
     "type": "weekly",
     "time": {
       "3": ["12:00", "12:50"],
@@ -84,7 +84,7 @@
   {
     "name": "Software Engineering Lab",
     "description": "Software Engineering Lab",
-    "emoji": "🧑🏻‍💻",
+    "emoji": "🛠️",
     "type": "weekly",
     "time": {
       "2": ["1:30", "3:55"]
@@ -93,8 +93,8 @@
 
   {
     "name": "OOP Lab",
-    "description": "Object oriented Programming Lab",
-    "emoji": "🧑🏻‍💻",
+    "description": "With Java",
+    "emoji": "⌨️",
     "type": "weekly",
     "time": {
       "3": ["1:30", "3:55"]
@@ -111,9 +111,18 @@
     }
   },
   {
+    "name": "Artificial Intelligence Lab",
+    "description": "Artificial Intelligence Lab",
+    "emoji": "🧠",
+    "type": "weekly",
+    "time": {
+      "4": ["1:30", "3:55"]
+    }
+  },
+  {
     "name": "Tiffin Time",
     "description": "Cholo canteen theke ghure asi",
-    "emoji": "🍕",
+    "emoji": "🍔",
     "type": "weekly",
     "time": {
       "1": ["12:50", "13:30"],
