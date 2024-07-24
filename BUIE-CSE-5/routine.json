@@ -1,8 +1,8 @@
 [
   {
-    "name": "AI",
+    "name": "Artificial Intelligence",
     "description": "Artificial Intelligence",
-    "emoji": "🙇‍♀️",
+    "emoji": "🤖",
     "type": "weekly",
     "time": {
       "1": ["10:20", "11:10"],
@@ -14,7 +14,7 @@
   {
     "name": "Software Engineering",
     "description": "Software Engineering",
-    "emoji": "👨‍💻",
+    "emoji": "💻",
     "type": "weekly",
     "time": {
       "1": ["11:10", "12:00"],
@@ -24,9 +24,9 @@
   },
 
   {
-    "name": "OP",
+    "name": "Operating System",
     "description": "Operating System",
-    "emoji": "🙇",
+    "emoji": "💽",
     "type": "weekly",
     "time": {
       "1": ["12:00", "12:50"],
@@ -36,9 +36,9 @@
   },
 
   {
-    "name": "OOP",
+    "name": "Object oriented programming",
     "description": "Object oriented programming",
-    "emoji": "🏫",
+    "emoji": "📦",
     "type": "weekly",
     "time": {
       "2": ["12:00", "12:50"],
@@ -50,7 +50,7 @@
   {
     "name": "Compiler Design",
     "description": "Compiler Design",
-    "emoji": "🏬",
+    "emoji": "🔧",
     "type": "weekly",
     "time": {
       "3": ["12:00", "12:50"],
@@ -60,9 +60,9 @@
   },
 
   {
-    "name": "Introduction to Industrial managment",
+    "name": "Industrial management",
     "description": "Humanities-III",
-    "emoji": "👨‍💻",
+    "emoji": "🏭",
     "type": "weekly",
     "time": {
       "1": ["2:20", "3:10"],
@@ -72,9 +72,9 @@
   },
 
   {
-    "name": "Constitution of India/Essence of Indian knowledge Tradition",
+    "name": "Constitution of India",
     "description": "Constitution of India",
-    "emoji": "🙇‍♀️",
+    "emoji": "📜",
     "type": "weekly",
     "time": {
       "1": ["1:30", "2:20"]
@@ -84,18 +84,18 @@
   {
     "name": "Software Engineering Lab",
     "description": "Software Engineering Lab",
-    "emoji": "👨‍🎓",
-    "type": "Laboratory",
+    "emoji": "🧑🏻‍💻",
+    "type": "weekly",
     "time": {
       "2": ["1:30", "3:55"]
     }
   },
 
   {
-    "name": "Object oriented Programming Lab",
+    "name": "OOP Lab",
     "description": "Object oriented Programming Lab",
-    "emoji": "🙋",
-    "type": "Laboratory",
+    "emoji": "🧑🏻‍💻",
+    "type": "weekly",
     "time": {
       "3": ["1:30", "3:55"]
     }
@@ -104,10 +104,24 @@
   {
     "name": "Operating System Lab",
     "description": "Operating System Lab",
-    "emoji": "🧪🙇",
-    "type": "Laboratory",
+    "emoji": "📁",
+    "type": "weekly",
     "time": {
       "5": ["1:30", "3:55"]
     }
+  },
+  {
+    "name": "Tiffin Time",
+    "description": "Cholo canteen theke ghure asi",
+    "emoji": "🍕",
+    "type": "weekly",
+    "time": {
+      "1": ["12:50", "13:30"],
+      "2": ["12:50", "13:30"],
+      "3": ["12:50", "13:30"],
+      "4": ["12:50", "13:30"],
+      "5": ["12:50", "13:30"]
+    },
+    "sub": "BUIE-CSE-3"
   }
 ]
