@@ -1,0 +1,113 @@
+[
+  {
+    "name": "AI",
+    "description": "Artificial Intelligence",
+    "emoji": "🙇‍♀️",
+    "type": "weekly",
+    "time": {
+      "1": ["10:20", "11:10"],
+      "2": ["11:10", "12:00"],
+      "3": ["11:10", "12:00"]
+    }
+  },
+
+  {
+    "name": "Software Engineering",
+    "description": "Software Engineering",
+    "emoji": "👨‍💻",
+    "type": "weekly",
+    "time": {
+      "1": ["11:10", "12:00"],
+      "4": ["12:00", "12:50"],
+      "5": ["11:10", "12:00"]
+    }
+  },
+
+  {
+    "name": "OP",
+    "description": "Operating System",
+    "emoji": "🙇",
+    "type": "weekly",
+    "time": {
+      "1": ["12:00", "12:50"],
+      "2": ["10:20", "11:10"],
+      "4": ["1:30", "2:20"]
+    }
+  },
+
+  {
+    "name": "OOP",
+    "description": "Object oriented programming",
+    "emoji": "🏫",
+    "type": "weekly",
+    "time": {
+      "2": ["12:00", "12:50"],
+      "3": ["10:20", "11:10"],
+      "4": ["11:10", "12:00"]
+    }
+  },
+
+  {
+    "name": "Compiler Design",
+    "description": "Compiler Design",
+    "emoji": "🏬",
+    "type": "weekly",
+    "time": {
+      "3": ["12:00", "12:50"],
+      "4": ["10:20", "11:10"],
+      "5": ["10:20", "11:10"]
+    }
+  },
+
+  {
+    "name": "Introduction to Industrial managment",
+    "description": "Humanities-III",
+    "emoji": "👨‍💻",
+    "type": "weekly",
+    "time": {
+      "1": ["2:20", "3:10"],
+      "4": ["2:20", "3:10"],
+      "5": ["12:00", "12:50"]
+    }
+  },
+
+  {
+    "name": "Constitution of India/Essence of Indian knowledge Tradition",
+    "description": "Constitution of India",
+    "emoji": "🙇‍♀️",
+    "type": "weekly",
+    "time": {
+      "1": ["1:30", "2:20"]
+    }
+  },
+
+  {
+    "name": "Software Engineering Lab",
+    "description": "Software Engineering Lab",
+    "emoji": "👨‍🎓",
+    "type": "Laboratory",
+    "time": {
+      "2": ["1:30", "3:55"]
+    }
+  },
+
+  {
+    "name": "Object oriented Programming Lab",
+    "description": "Object oriented Programming Lab",
+    "emoji": "🙋",
+    "type": "Laboratory",
+    "time": {
+      "3": ["1:30", "3:55"]
+    }
+  },
+
+  {
+    "name": "Operating System Lab",
+    "description": "Operating System Lab",
+    "emoji": "🧪🙇",
+    "type": "Laboratory",
+    "time": {
+      "5": ["1:30", "3:55"]
+    }
+  }
+]
