@@ -31,7 +31,7 @@
     "time": {
       "1": ["12:00", "12:50"],
       "2": ["10:20", "11:10"],
-      "4": ["1:30", "2:20"]
+      "4": ["13:30", "14:20"]
     }
   },
 
@@ -65,8 +65,8 @@
     "emoji": "🏭",
     "type": "weekly",
     "time": {
-      "1": ["2:20", "3:10"],
-      "4": ["2:20", "3:10"],
+      "1": ["14:20", "15:10"],
+      "4": ["14:20", "15:10"],
       "5": ["12:00", "12:50"]
     }
   },
@@ -77,48 +77,70 @@
     "emoji": "📜",
     "type": "weekly",
     "time": {
-      "1": ["1:30", "2:20"]
+      "1": ["13:30", "14:20"]
     }
   },
 
   {
-    "name": "Software Engineering Lab",
+    "name": "Software Engineering Lab X group",
     "description": "Software Engineering Lab",
     "emoji": "🛠️",
     "type": "weekly",
     "time": {
-      "2": ["1:30", "3:55"]
+      "2": ["13:30", "15:55"]
     }
   },
 
   {
-    "name": "OOP Lab",
+    "name": "Software Engineering Lab Y group",
+    "description": "Software Engineering Lab",
+    "emoji": "🛠️",
+    "type": "weekly",
+    "time": {
+      "3": ["13:30", "15:55"]
+    }
+  },
+
+  {
+    "name": "OOP Lab X group",
     "description": "With Java",
     "emoji": "⌨️",
     "type": "weekly",
     "time": {
-      "3": ["1:30", "3:55"]
+      "3": ["13:30", "15:55"]
     }
   },
 
   {
-    "name": "Operating System Lab",
+    "name": "OOP Lab Y group",
+    "description": "With Java",
+    "emoji": "⌨️",
+    "type": "weekly",
+    "time": {
+      "5": ["13:30", "15:55"]
+    }
+  },
+
+  {
+    "name": "Operating System Lab X group",
     "description": "Operating System Lab",
     "emoji": "📁",
     "type": "weekly",
     "time": {
-      "5": ["1:30", "3:55"]
+      "5": ["13:30", "15:55"]
     }
   },
+
   {
-    "name": "Artificial Intelligence Lab",
-    "description": "Artificial Intelligence Lab",
-    "emoji": "🧠",
+    "name": "Operating System Lab Y group",
+    "description": "Operating System Lab",
+    "emoji": "📁",
     "type": "weekly",
     "time": {
-      "4": ["1:30", "3:55"]
+      "2": ["13:30", "15:55"]
     }
   },
+
   {
     "name": "Tiffin Time",
     "description": "Cholo canteen theke ghure asi",
