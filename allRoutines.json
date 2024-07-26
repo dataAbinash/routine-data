@@ -1,7 +1,12 @@
 [
   {
     "name": "BUIE CSE/IT 5th Sem",
-    "description": "BUIE CSE/IT 4th Sem 2023",
+    "description": "BUIE CSE/IT 5th Sem 2024",
     "id": "BUIE-CSE-5"
+  },
+  {
+    "name": "BUIE 2024 Holidays ",
+    "description": "BUIE 2024 Holidays",
+    "id": "BUIE-H-24"
   }
 ]
